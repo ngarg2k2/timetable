@@ -5,3 +5,24 @@
     /* font-family: 'WindSong', cursive; */
     font-family: 'Indie Flower', cursive;
 }
+
+.card-text a:hover {
+    color: crimson;
+}
+
+.card-text a {
+    color: black;
+}
+
+#contact {
+    text-align: center;
+    background-color: crimson;
+    color: wheat;
+    /* font-family: 'WindSong', cursive; */
+    font-family: 'Indie Flower', cursive;
+}
+
+.days a:hover {
+    /* color: crimson; */
+    border-bottom: 2px crimson solid;
+}
